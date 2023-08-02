@@ -1,2 +1,2 @@
-greeting = "Git Is Awesome!";
-console.log(greeting);
+input = prompt("Please enter some random input: ")
+console.log(`Users input: ${input}`);
